@@ -1,0 +1,23 @@
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\bin\Debug\LogInUi.exe.config
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\bin\Debug\LogInUi.exe
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\bin\Debug\LogInUi.pdb
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.csprojAssemblyReference.cache
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\Custom Controls\TextBoxWithPlaceHolder.g.cs
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\MainWindow.g.cs
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\Pages\LoginPage.g.cs
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\App.g.cs
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi_MarkupCompile.cache
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi_MarkupCompile.lref
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\Custom Controls\TextBoxWithPlaceHolder.baml
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\MainWindow.baml
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\Pages\LoginPage.baml
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.g.resources
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.Properties.Resources.resources
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.csproj.GenerateResource.cache
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.csproj.CoreCompileInputs.cache
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.exe
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\LogInUi.pdb
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\App.baml
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\Pages\Dashboard.g.cs
+D:\C# Studies\LearnSomeShit\LogInUi\LogInUi\obj\Debug\Pages\Dashboard.baml
